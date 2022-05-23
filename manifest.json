@@ -1,0 +1,10 @@
+{
+  "Name": "AutomaticHammerSlam",
+  "Author": "Zamiel",
+  "Version": "1.0.0",
+  "Description": "Automatically spams left click while slamming a hammer so that you don't get carpal tunnel syndrome.",
+  "UniqueID": "Zamiel.AutomaticHammerSlam",
+  "EntryDll": "AutomaticHammerSlam.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["GitHub:Zamiell/AutomaticHammerSlam"]
+}

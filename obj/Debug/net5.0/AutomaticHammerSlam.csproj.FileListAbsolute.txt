@@ -1,0 +1,10 @@
+D:\Repositories\AutomaticHammerSlam\bin\Debug\net5.0\AutomaticHammerSlam.deps.json
+D:\Repositories\AutomaticHammerSlam\bin\Debug\net5.0\AutomaticHammerSlam.dll
+D:\Repositories\AutomaticHammerSlam\bin\Debug\net5.0\AutomaticHammerSlam.pdb
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.AssemblyInfoInputs.cache
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.AssemblyInfo.cs
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.csproj.CoreCompileInputs.cache
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.dll
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.pdb
+D:\Repositories\AutomaticHammerSlam\obj\Debug\net5.0\AutomaticHammerSlam.csproj.AssemblyReference.cache
